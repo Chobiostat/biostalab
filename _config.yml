@@ -16,10 +16,10 @@ minimal_mistakes_skin    : "contrast" # "air", "aqua", "contrast", "dark", "dirt
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Prof Cho's Lab"
+title                    : "Prof. Cho Hyun Soon's Lab"
 title_separator          : "-"
-name                     : "Prof Cho"
-description              : "An amazing website."
+name                     : "Biostatistics Lab"
+description              : "Department of Cancer policy and population health, NCC-GCSP"
 url                      : "https://biostalab.ytecongcong.com" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "/" # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -100,11 +100,11 @@ analytics:
 
 # Site Author
 author:
-  name             : "Prof Cho"
+  name             : "Prof Cho Hyun Soon's Lab"
   avatar           : "http://www.ytecongcong.com/assets/images/avatar.png"
-  bio              : "I am...."
-  location         : "SK"
-  email            :
+  bio              : "Department of Cancer policy and population health, NCC-GCSP"
+  location         : "Goyang, Korea"
+  email            : cholab.biostat@gmail.com
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
